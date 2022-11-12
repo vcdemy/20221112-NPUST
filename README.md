@@ -4,6 +4,10 @@
 
 連結：https://app.sli.do/event/7Ljx6RE6dtEDyauePa39bS
 
+## 筆記：
+
+Colab: https://ppt.cc/feOHXx
+
 ## 投影片：
 
 * [Web簡介 - 投影片](https://docs.google.com/presentation/d/1UEPMx0G-MYWW2gHZs0Y93L6XwVVg5S5I0QLVsv4A0y4/edit?usp=sharing)
