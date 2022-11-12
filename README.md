@@ -20,3 +20,9 @@
 * [folium 說明文件](http://python-visualization.github.io/folium/)
 * [Geocoder](https://geocoder.readthedocs.io/)
 
+資料分析簡介：
+
+* Numpy
+* MatPlotLib
+* Pandas
+
